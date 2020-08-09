@@ -1,4 +1,4 @@
-# HTML, CSS and Javascript for Web Developers by John Hopkins University.
+# HTML, CSS and Javascript for Web Developers by Yaakov Chaikin from John Hopkins University.
 
 This repository contains all the solutions of this course.
 
