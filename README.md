@@ -1,4 +1,6 @@
-# This repository contains WEB DEVELOPMENT courses from COURSERA. 
+# Coursera Web Dev.
+
+This repository contains WEB DEVELOPMENT courses from COURSERA. 
 
 ## Firstly i've completed the "HTML, CSS, and Javascript for Web Developers" course which was taken by Yaakov Chaikin (ONE OF BEST TEACHER)
 
