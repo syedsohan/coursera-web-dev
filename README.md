@@ -2,8 +2,12 @@
 
 This repository contains WEB DEVELOPMENT courses from COURSERA. 
 
-## Firstly i've completed the "HTML, CSS, and Javascript for Web Developers" course which was taken by Yaakov Chaikin (ONE OF BEST TEACHER)
+## "HTML, CSS, and Javascript for Web Developers" by Yaakov Chaikin (ONE OF THE BEST TEACHER)
+The very first course completed from coursera. 
 
-## Secondly i've completed the "Building Web Applications in PHP" course which was taken by Dr. Chuck.
+## "Building Web Applications in PHP" by Dr. Chuck.
+Second course completed from coursera.
 
-## Thirdly my ongoing "Single Page Web Applications with AngularJS" course which is again taken by Yaakov Chaikin.
+## "Single Page Web Applications with AngularJS" by Yaakov Chaikin.
+Ongoing course. 
+
