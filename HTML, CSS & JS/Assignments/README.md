@@ -1,4 +1,5 @@
-# HTML, CSS and Javascript for Web Developers by Yaakov Chaikin. (John Hopkins University)
+# HTML, CSS and Javascript for Web Developers offered by Johns Hopkins University. 
+# Instructor - Yaakov Chaikin.
 
 This repository contains all the solutions of this course.
 
