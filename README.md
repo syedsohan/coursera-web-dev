@@ -8,7 +8,7 @@ This repository contains WEB DEVELOPMENT courses from COURSERA.
 1st course completed from coursera. 
 
 ## "Building Web Applications in PHP" offered by University Of Michigan.
-## Instructor - Dr. Chuck.
+## Instructor - Charles Russell Severance. (Dr. Chuck)
 
 2nd course completed from coursera.
 
