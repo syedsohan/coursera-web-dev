@@ -12,8 +12,3 @@ This repository contains WEB DEVELOPMENT courses from COURSERA.
 
 2nd course completed from coursera.
 
-## "Single Page Web Applications with AngularJS" offered by Johns Hopkins University.
-## Instructor - Yaakov Chaikin.
-
-Ongoing course. 
-
